@@ -1,16 +1,93 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**erikaferreira432/erikaferreira432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&height=190&color=0:ff5f8f,50:ff9eb5,100:ffd1dc&text=Erika%20Ferreira&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Bem-vinda(o)%20ao%20meu%20cantinho%20no%20GitHub&descAlignY=58&descSize=16)
 
-Here are some ideas to get you started:
+## Oi, eu sou a Erika Ferreira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Desenvolvedora em crescimento` | `Criativa` | `Apaixonada por tecnologia`
+
+Um README com cheirinho de morango, energia feminina e muita vontade de aprender, criar e evoluir na tecnologia.
+
+</div>
+
+---
+
+### Sobre mim
+
+- Estou construindo minha jornada na programacao.
+- Gosto de transformar ideias em projetos bonitos, uteis e bem organizados.
+- Tenho interesse em desenvolvimento web, design, logica e boas experiencias para usuarios.
+- Acredito que aprender um pouco todos os dias faz toda diferenca.
+- Aqui voce encontra meus estudos, projetos e experimentos.
+
+---
+
+### Tecnologias e ferramentas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-ff6f91?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff8fab?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb3c6?style=for-the-badge&logo=javascript&logoColor=5c1a2d)
+![Git](https://img.shields.io/badge/Git-e75480?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5c1a2d?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### Meu jardim de estudos
+
+```txt
+HTML e CSS        [########--] 80%
+JavaScript        [#######---] 65%
+Git e GitHub      [########--] 75%
+Projetos Web      [#######---] 65%
+UI e criatividade [########--] 75%
+```
+
+---
+
+### Estatisticas do GitHub
+
+<div align="center">
+
+![Erika GitHub Stats](https://github-readme-stats.vercel.app/api?username=erikaferreira432&show_icons=true&theme=dracula&hide_border=true&title_color=ff8fab&icon_color=ffb3c6&text_color=ffffff&bg_color=5c1a2d)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaferreira432&layout=compact&theme=dracula&hide_border=true&title_color=ff8fab&text_color=ffffff&bg_color=5c1a2d)
+
+</div>
+
+---
+
+### Projetos em destaque
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaferreira432&repo=nome-do-repositorio&theme=dracula&hide_border=true&title_color=ff8fab&text_color=ffffff&bg_color=5c1a2d)](https://github.com/erikaferreira432/nome-do-repositorio)
+
+</div>
+
+> Troque `nome-do-repositorio` pelo nome de um projeto seu para destacar aqui.
+
+---
+
+### Conecte-se comigo
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-erikaferreira432-5c1a2d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erikaferreira432)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erika%20Ferreira-ff6f91?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-contato-ff8fab?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffd1dc,50:ff9eb5,100:ff5f8f)
+
+Feito com carinho, codigo e um toque de morango.
+
+</div>

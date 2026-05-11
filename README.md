@@ -6,7 +6,7 @@
 
 `Estudante da EFG Paulo Renato de Souza` | `Front-end learner` | `Design enthusiast`
 
-Um README com cheirinho de morango, energia feminina e muita vontade de aprender, criar e evoluir na tecnologia.
+criar e evoluir na tecnologia.
 
 </div>
 

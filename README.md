@@ -4,7 +4,7 @@
 
 ## Oi, eu sou a Erika Ferreira
 
-`Desenvolvedora em crescimento` | `Criativa` | `Apaixonada por tecnologia`
+`Estudante da EFG Paulo Renato de Souza` | `Front-end learner` | `Design enthusiast`
 
 Um README com cheirinho de morango, energia feminina e muita vontade de aprender, criar e evoluir na tecnologia.
 
@@ -14,11 +14,35 @@ Um README com cheirinho de morango, energia feminina e muita vontade de aprender
 
 ### Sobre mim
 
-- Estou construindo minha jornada na programacao.
+- Sou estudante da EFG Paulo Renato de Souza.
+- Estou construindo minha jornada em desenvolvimento web.
 - Gosto de transformar ideias em projetos bonitos, uteis e bem organizados.
-- Tenho interesse em desenvolvimento web, design, logica e boas experiencias para usuarios.
+- Tenho interesse em front-end, design, JavaScript, back-end e moda.
 - Acredito que aprender um pouco todos os dias faz toda diferenca.
 - Aqui voce encontra meus estudos, projetos e experimentos.
+
+---
+
+### Minha turma e estudos
+
+Estudo com uma turma que tambem esta crescendo na tecnologia, explorando desenvolvimento web, programacao, design, back-end, ciberseguranca e inteligencia artificial.
+
+Pelos perfis publicos da sala, as stacks e interesses que mais aparecem sao:
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-ff6f91?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff8fab?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb3c6?style=for-the-badge&logo=javascript&logoColor=5c1a2d)
+![TypeScript](https://img.shields.io/badge/TypeScript-e75480?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-ff8fab?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5c1a2d?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ffb3c6?style=for-the-badge&logo=python&logoColor=5c1a2d)
+![Figma](https://img.shields.io/badge/Figma-ff6f91?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-5c1a2d?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-e75480?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
@@ -31,6 +55,7 @@ Um README com cheirinho de morango, energia feminina e muita vontade de aprender
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb3c6?style=for-the-badge&logo=javascript&logoColor=5c1a2d)
 ![Git](https://img.shields.io/badge/Git-e75480?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-5c1a2d?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ff6f91?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 

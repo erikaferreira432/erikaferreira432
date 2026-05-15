@@ -92,9 +92,6 @@ UI e criatividade [########--] 75%
 
 </div>
 
-- **Midia Indoor:** projeto voltado para exibição de conteúdos, avisos e informações em telas digitais.
-- **Sistema Hospitalar:** sistema criado para praticar organização de dados, fluxos de atendimento e lógica de aplicação.
-
 ---
 
 ### Conecte-se comigo

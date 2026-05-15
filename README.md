@@ -6,7 +6,7 @@
 
 `Estudante da EFG Paulo Renato de Souza` | `Front-end learner` | `Design enthusiast`
 
-criar e evoluir na tecnologia.
+Criando e evoluindo na tecnologia.
 
 </div>
 
@@ -16,18 +16,16 @@ criar e evoluir na tecnologia.
 
 - Sou estudante da EFG Paulo Renato de Souza.
 - Estou construindo minha jornada em desenvolvimento web.
-- Gosto de transformar ideias em projetos bonitos, uteis e bem organizados.
+- Gosto de transformar ideias em projetos bonitos, úteis e bem organizados.
 - Tenho interesse em front-end, design, JavaScript, back-end e moda.
-- Acredito que aprender um pouco todos os dias faz toda diferenca.
-- Aqui voce encontra meus estudos, projetos e experimentos.
+- Acredito que aprender um pouco todos os dias faz toda diferença.
+- Aqui você encontra meus estudos, projetos e experimentos.
 
 ---
 
 ### Minha turma e estudos
 
-Estudo com uma turma que tambem esta crescendo na tecnologia, explorando desenvolvimento web, programacao, design, back-end, ciberseguranca e inteligencia artificial.
-
-Pelos perfis publicos da sala, as stacks e interesses que mais aparecem sao:
+Estudo com uma turma que também está crescendo na tecnologia, explorando desenvolvimento web, programação, design, back-end, cibersegurança e inteligência artificial.
 
 <div align="center">
 
@@ -77,9 +75,9 @@ UI e criatividade [########--] 75%
 
 <div align="center">
 
-![Erika GitHub Stats](https://github-readme-stats.vercel.app/api?username=erikaferreira432&show_icons=true&theme=dracula&hide_border=true&title_color=ff8fab&icon_color=ffb3c6&text_color=ffffff&bg_color=5c1a2d)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaferreira432&layout=compact&theme=dracula&hide_border=true&title_color=ff8fab&text_color=ffffff&bg_color=5c1a2d)
+![GitHub followers](https://img.shields.io/github/followers/erikaferreira432?style=for-the-badge&color=ff8fab&labelColor=5c1a2d&logo=github&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/erikaferreira432?style=for-the-badge&color=ffb3c6&labelColor=5c1a2d&logo=github&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=erikaferreira432&style=for-the-badge&color=ff8fab)
 
 </div>
 
@@ -89,11 +87,13 @@ UI e criatividade [########--] 75%
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaferreira432&repo=nome-do-repositorio&theme=dracula&hide_border=true&title_color=ff8fab&text_color=ffffff&bg_color=5c1a2d)](https://github.com/erikaferreira432/nome-do-repositorio)
+[![Midia Indoor](https://img.shields.io/badge/Midia%20Indoor-ff6f91?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/erikaferreira432)
+[![Sistema Hospitalar](https://img.shields.io/badge/Sistema%20Hospitalar-5c1a2d?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/erikaferreira432)
 
 </div>
 
-> Troque `nome-do-repositorio` pelo nome de um projeto seu para destacar aqui.
+- **Midia Indoor:** projeto voltado para exibição de conteúdos, avisos e informações em telas digitais.
+- **Sistema Hospitalar:** sistema criado para praticar organização de dados, fluxos de atendimento e lógica de aplicação.
 
 ---
 
@@ -113,6 +113,6 @@ UI e criatividade [########--] 75%
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffd1dc,50:ff9eb5,100:ff5f8f)
 
-Feito com carinho, codigo e um toque de morango.
+Feito com carinho, código e um toque de morango.
 
 </div>
